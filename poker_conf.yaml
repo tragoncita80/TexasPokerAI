@@ -1,0 +1,14 @@
+ai_players:
+  - name: Fish1
+    path: players/fish_player.py
+  - name: Fish2
+    path: players/fish_player.py
+  - name: Strategy1
+    path: players/strategy_player.py
+  - name: Strategy2
+    path: players/strategy_player.py
+ante: 0
+blind_structure: null
+initial_stack: 1000
+max_round: 100
+small_blind: 10
